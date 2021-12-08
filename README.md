@@ -12,13 +12,14 @@ A Flutter Enthusiast and CS student pursuing Bachelors in Computer Engineering f
 - Firestore | Realtime Database | PostgreSql
 - Git | VsCode | Heroku | Android Studio
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy-mammal&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3> 🤝🏻 Connect with Me </h3> 
 
-<!-- <p >
-<a href="https://www.linkedin.com/in/yash-lalit-0a6a6320b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Athul%20Tulasidasan-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/Athul0491"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Athul%20Tulasidasan-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:athulrthulasidasan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Athul%20Tulasidasan-blue?style=flat-square&logo=Gmail"></a> -->
+<p>
+<a href="https://www.linkedin.com/in/yash-lalit-0a6a6320b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yash%20Lalit-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/yashlalit.24/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Yash%20Lalit-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:yashlalit.23@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Yash%20Lalit-blue?style=flat-square&logo=Gmail"></a>
+</p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy-mammal&langs_count=2)](https://github.com/anuraghazra/github-readme-stats) -->
+<h3> 🗃️ Some stats about Me </h3> 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy-mammal&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
