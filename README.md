@@ -2,7 +2,7 @@
 
 # Hola, amigos! I'm Yash Lalit <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<hr>
+🙋About Me
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy-mammal&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
