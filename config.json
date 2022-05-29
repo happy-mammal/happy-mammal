@@ -1,5 +1,6 @@
 {
 "naa":{
-  "pages":17    
+  "pages":17,
+  "isAdEnabled":false
 }
 }
