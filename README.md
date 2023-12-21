@@ -5,12 +5,17 @@
 <h3> 🙋 About Me </h3>
 A Flutter Enthusiast and CS student pursuing Bachelors in Computer Engineering from Pillai College of Engieering. I make random things, mostly using Dart & Flutter.
 
-<h3>🛠 My Tech Stack</h3>
+<h3>🚧 Current Update</h3>
 
-- Flutter | Dart
-- BloC | Node.js | Express | GraphQL 
-- Firestore | Realtime Database | PostgreSql
-- Git | VsCode | Heroku | Android Studio
+- Building a SaaS (Stack Alpha) 👉 https://www.stackalpha.tech
+- Learning & exploring Three.js
+
+<h3>🛠 Tools & Tech i have worked with</h3>
+
+- Flutter | React.js | Next.js | Node.js | Express.js | SpringBoot
+- Java | Dart | Kotlin | JavaScript | TypeScript 
+- MySQL| PostgreSQL | MongoDB | Firebase | Digital Ocean | Redis | Nginx
+- REST APIs| GraphQL | Kafka | RabbitMQ | VsCode | Android Studio
 
 <h3> 🤝🏻 Connect with Me </h3> 
 
