@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/78479679/145237481-0eca7250-9e4c-475c-a6b1-245b0b709361.png  "Header")
 
-# iOS & Flutter Developer | Swift, SwiftUI, Dart, Flutter | Full Stack Mobile App Dev <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# iOS Developer | Swift, SwiftUI, Dart, Flutter | Full Stack Mobile App Dev <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <h3> 🙋 About Me </h3>
 Hola, amigos! I'm Yash Lalit a full stack mobile app developer foused on building native iOS apps using Swift, Swift UI, UIKit and also capable of building cross-platform apps using Flutter for mobile. I also do backend development and love to build things end to end. 
