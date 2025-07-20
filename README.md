@@ -3,19 +3,21 @@
 # Hola, amigos! I'm Yash Lalit <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <h3> 🙋 About Me </h3>
-A Flutter Enthusiast and CS student pursuing Bachelors in Computer Engineering from Pillai College of Engieering. I make random things, mostly using Dart & Flutter.
+iOS & Flutter Developer | Swift, SwiftUI, Dart, Flutter | Full Stack Mobile App Dev
 
 <h3>🚧 Current Update</h3>
 
-- Building a SaaS (Stack Alpha) 👉 https://www.stackalpha.tech
-- Learning & exploring Three.js
+- Working as a full-time iOS Engineer Intern at Soundverse AI 
+- Building Takes a native iOS app my attempt to learn and make use of entire AVFoundation framework and in the process get familier with other framrworks such as Core Media, Core Animation and much more.
 
-<h3>🛠 Tools & Tech i have worked with</h3>
+<h3>🛠 Tools & Tech i work with</h3>
 
-- Flutter | React.js | Next.js | Node.js | Express.js | SpringBoot
-- Java | Dart | Kotlin | JavaScript | TypeScript 
-- MySQL| PostgreSQL | MongoDB | Firebase | Digital Ocean | Redis | Nginx
-- REST APIs| GraphQL | Kafka | RabbitMQ | VsCode | Android Studio
+- Swift | Dart | Go |
+- Swift UI | UI Kit | Flutter | Go Fiber | Vapor 
+- Firebase | Supabase | Digital Ocean | GitHub | REST APIs | GraphQL | Web Sockets
+- Xcode| VScode | App Store Connect | Test Flight | Google Play Console | Android Studio
+
+There's much more i have worked on or working with and exploring them out. Hire me to unlock my full poential XD
 
 <h3> 🤝🏻 Connect with Me </h3> 
 
@@ -24,7 +26,3 @@ A Flutter Enthusiast and CS student pursuing Bachelors in Computer Engineering f
 <a href="https://www.instagram.com/yashlalit.24/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Yash%20Lalit-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:yashlalit.23@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Yash%20Lalit-blue?style=flat-square&logo=Gmail"></a>
 </p>
-
-<h3> 🗃️ Some stats about Me </h3> 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy-mammal&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
